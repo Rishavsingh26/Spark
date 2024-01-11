@@ -1,0 +1,381 @@
+{
+  "users":
+  [
+    {
+      "ques": "parliment of iran",
+      "answ": "majjlish"
+    },
+   {
+      "ques": "parliament of japan",
+      "answ": "diet"
+    },
+    {
+      "ques": "parliment of india",
+      "answ": "sansadh"
+    },
+    {
+      "ques": "Parliament of Britain",
+      "answ": "Parliament"
+    },
+    {
+      "ques": "Parliament of Cannada",
+      "answ": "Parliament"
+    },
+     {
+      "ques": "Parliament of Russia",
+      "answ": "Duma"
+    },
+     {
+      "ques": "Parliament of USA",
+      "answ": "Congress"
+    },
+     {
+      "ques": "Parliament of Germany",
+      "answ": "Bundstage"
+    },
+     {
+      "ques": "Parliament of Israel",
+      "answ": "kneset"
+    },
+     {
+      "ques": "Parliament of Hungary",
+      "answ": "National Assembely"
+    },
+     {
+      "ques": "Parliament of France",
+      "answ": "National Assembely"
+    },
+     {
+      "ques": "Parliament of Pakistan",
+      "answ": "National Assembely"
+    },
+     {
+      "ques": "Parliament of Afganishtan",
+      "answ": "Soora"
+    },
+     {
+      "ques": "Parliament of Bangladesh",
+      "answ": "Jatiya Sansadh"
+    },
+     {
+      "ques": "Parliament of Maldives",
+      "answ": "Majjlish"
+    },
+     {
+      "ques": "Parliament of Denmark",
+      "answ": "Folkating"
+    },
+     {
+      "ques": "Parliament of Spain",
+      "answ": "Cortess"
+    },
+     {
+      "ques": "Parliament of Sweden",
+      "answ": "Riskdaag"
+    },
+     {
+      "ques": "Parliament of Nepal",
+      "answ": "Rashtriya Panchyat"
+    },
+     {
+      "ques": "Parliament of Switzerland",
+      "answ": "Fedral Assembly"
+    },
+  ],
+  
+  "country":
+  [
+    {
+      "ques": "Austria",
+      "answ": "vieana"
+    },
+    {
+      "ques": "Vietnam",
+      "answ": "Hanoi"
+    }
+   ],
+   "song":
+   [
+     {
+      "ques": "National Song of India",
+      "answ": "Jan Gan Man"
+     },
+     {
+      "ques": "National Song of United kingdom",
+      "answ": "God Save The Queen"
+     },
+     {
+      "ques": "National Song of Cannada",
+      "answ": "O Cannada"
+     },
+     {
+      "ques": "National Song of Nepal",
+      "answ": "Syna Thunga Fulka"
+     },
+     {
+      "ques": "National Song of Sri Lanka",
+      "answ": "Srilanka Mata Apa Srilanka"
+     },
+     {
+      "ques": "National Song of Italy",
+      "answ": "Brothers of Italy"
+     },
+     {
+      "ques": "National Song of China",
+      "answ": "March of Volunteers"
+     },
+     {
+      "ques": "National Song of USA",
+      "answ": "The Star Spangled Banner"
+     },
+     {
+      "ques": "National Song of Bangladesh",
+      "answ": "Aamar Sonar Bangla"
+     },
+     {
+      "ques": "National Song of Japan",
+      "answ": "Kimi Gaa Yo Wa"
+     },
+     {
+      "ques": "National Song of Afganishtan",
+      "answ": "God is Gretaest"
+     },
+     {
+      "ques": "National Song of South Africa",
+      "answ": "Nacossi Siklele Africa"
+     },
+     {
+      "ques": "National Song of Autrallia",
+      "answ": "Advance Australlia Fair"
+     },
+     {
+      "ques": "National Song of New Zealand",
+      "answ": "God Save The Queen God Defend"
+     }
+   ],
+   "revolution":
+   [
+     {
+      "ques": "Green Revolution",
+      "answ": "Crop Production"
+     },
+     {
+      "ques": "White Revolution",
+      "answ": "Milk Production"
+     },
+     {
+      "ques": "Blue Revolution",
+      "answ": "Fish Production"
+     },
+     {
+      "ques": "Gray Revolution",
+      "answ": "Egg Production"
+     },
+     {
+      "ques": "Yellow Revolution",
+      "answ": "Oil Production"
+     },
+     {
+      "ques": "Black Revolution",
+      "answ": "Bio-diesel Production"
+     },
+     {
+      "ques": "Red Revolution",
+      "answ": "Tomato Production"
+     },
+     {
+      "ques": "Golden Revolution",
+      "answ": "Fruit Production"
+     },
+     {
+      "ques": "Round Revolution ",
+      "answ": "Potato production "
+     },
+    ],
+   "book":
+   [
+     {
+      "ques": "Who is Author of The Book Panchtantra",
+      "answ": "Vishnu Sharma"
+     },
+     {
+      "ques": "Who is Author of The Book Kadambari",
+      "answ": "Banbhatt"
+     },
+     {
+      "ques": "Who is Author of The Book Hymaunama",
+      "answ": "Gulbadan Begum"
+     },
+     {
+      "ques": "Who is Author of The Book Indian Pholosphy",
+      "answ": "S radhakrishnan"
+     },
+     {
+      "ques": "Who is Author of The Book gitanjali",
+      "answ": "Rabindranath Tagore"
+     },
+     {
+      "ques": "Who is Author of The Book Karmbhoomi",
+      "answ": "Munshi Premchand"
+     },
+     {
+      "ques": "Who is Author of The Book Speed Post",
+      "answ": "Sobha Dey"
+     },
+     {
+      "ques": "Who is Author of The Book Krukeshtra",
+      "answ": "Ramdhari Singh Dinkar"
+     },
+     {
+      "ques": "Who is Author of The Book Young India",
+      "answ": "Mk Gandhi"
+     },
+     {
+      "ques": "Who is Author of The Book Wings of Fire",
+      "answ": "APJ Abdul Kalam"
+     },
+     {
+      "ques": "Who is Author of The Book Mogaldi Days",
+      "answ": "RK Narayan"
+     },
+     {
+      "ques": "Who is Author of The Book Indica",
+      "answ": "Megasthense"
+     },
+     {
+      "ques": "Who is Author of The Book Anandmath",
+      "answ": "Bankim Chandra Chattergi"
+     },
+   ],
+   
+   "newspaper":
+   [
+     {
+      "ques": "Famous Newspaper of USA",
+      "answ": "Washigaton Post"
+     },
+     {
+      "ques": "Famous NewsPaper of Britain",
+      "answ": "Daily Mail, Daily Mirror, The Times"
+     },
+     {
+      "ques": "Famous NewsPaper of Italy",
+      "answ": "La Republica"
+     },
+     {
+      "ques": "Famous NewsPaper of India",
+      "answ": "The Times of India, The Hindustan Times, The Hindu"
+     },
+     {
+      "ques": "Famous NewsPaper of Sri lanka",
+      "answ": "The Iland"
+     },
+     {
+      "ques": "Famous NewsPaper of UAE",
+      "answ": "Khalij Times"
+     },
+     {
+      "ques": "Famous NewsPaper of Pakistan",
+      "answ": "Dawn"
+     },
+     {
+      "ques": "Famous NewsPaper of France",
+      "answ": "Li Figaaro"
+     },
+     {
+      "ques": "Famous NewsPaper of China",
+      "answ": "Peoples Daily"
+     },
+     {
+      "ques": "Famous NewsPaper of Japan ",
+      "answ": "Manachi"
+     },
+     {
+      "ques": "Famous NewsPaper of Singapore ",
+      "answ": "Eastern Sun"
+     },
+     {
+      "ques": "Famous NewsPaper of Bangladesh ",
+      "answ": "Bangladesh Oveserver"
+     },
+     {
+      "ques": "Famous NewsPaper of Russia ",
+      "answ": "Pravada"
+     },
+    ],
+   
+   "invention":
+   [
+     {
+      "ques": "Who invented Computer",
+      "answ": "Charles Babbage"
+     },
+     {
+      "ques": "Who invented Dynamo",
+      "answ": "Michal Faraday"
+     },
+     {
+      "ques": "Who invented Bicycle",
+      "answ": "K Macmillan"
+     },
+     {
+      "ques": "Who invented DC Motor",
+      "answ": "Jenobe Gramme"
+     },
+     {
+      "ques": "Who invented Fountain Pen",
+      "answ": "L Watermen"
+     },
+     {
+      "ques": "Who invented Television",
+      "answ": "JL Biard"
+     },
+     {
+      "ques": "Who invented AC Motor",
+      "answ": "Nichola Tesla"
+     },
+     {
+      "ques": "Who invented Transistor",
+      "answ": "W S Shakley"
+     },
+     {
+      "ques": "Who invented Typewriter",
+      "answ": "Pelegreen Tary"
+     },
+     {
+      "ques": "Who invented Rradar",
+      "answ": "Robert Waston Watt"
+     },
+     {
+      "ques": "Who invented Microscope",
+      "answ": "Z Jensen"
+     },
+     {
+      "ques": "Who invented Microphone",
+      "answ": "Graham Bell"
+     },
+     {
+      "ques": "Who invented Printing Press",
+      "answ": "Jhon Gutenberg"
+     },
+     {
+      "ques": "Who invented Rebolber",
+      "answ": "Samuel Colt"
+     },
+     {
+      "ques": "Who invented Thermometer",
+      "answ": "DG Farenhiet"
+     },
+     {
+      "ques": "Who invented Galvanometer",
+      "answ": "Andre Marrie Ampere"
+     },
+     {
+      "ques": "Who invented Super Conductivity",
+      "answ": "Hk Onesh"
+     }
+    ]
+    
+     
+}
+
