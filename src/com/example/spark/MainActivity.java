@@ -24,10 +24,11 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 		t1 = (TextView)findViewById(R.id.t1);
 		t2 = (TextView)findViewById(R.id.t2);
-		//beginJsonParsing();
+		
 		t2.setText("Devloped By : \n        Rishav Singh \n\n Co Devloped By : \n        Soyam Singh \n   Aman singh");
 		t2.setTextColor(Color.RED);
 		json = loadJSONFromAsset();
+		beginJsonParsing("users","Country And Their Parliament");
 		/*
 		query();
 		try{
